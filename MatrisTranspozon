@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // patika.dev java 101 Matris Transpozunu ekrana yazdırma uygulaması. @bilalertugrul
+        // patika.dev java 101 Matris Transpozunu ekrana yazdırma uygulaması.
         int[][] matris = {
                 {1,5,3},
                 {4,8,6},
